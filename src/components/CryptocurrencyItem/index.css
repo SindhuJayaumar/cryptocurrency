@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.coin-box-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border-color: #ffff;
+  height: 25vh;
+  width: 600px;
+  background-color: #ffff;
+}
+.head {
+  color: #ffff;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.used {
+  color: #ffff;
+  margin-right: 20px;
+}
+.euro {
+  color: #ffff;
+  margin-right: 20px;
+}
+.image {
+  width: 50px;
+}
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin-bottom: 5px;
+}
